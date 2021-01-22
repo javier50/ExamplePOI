@@ -1,0 +1,14 @@
+2021-01-21 14:15:29[ERROR][Main.java:16]main(): Entra
+2021-01-21 14:15:41[ERROR][Main.java:16]main(): Entra
+2021-01-21 18:55:37[ERROR][Main.java:9]main(): Entra
+2021-01-21 18:56:31[ERROR][Main.java:9]main(): Entra
+2021-01-21 18:57:20[DEBUG][Main.java:9]main(): Entra
+2021-01-21 18:57:20[DEBUG][SimpleExcel.java:17]createSimpleExcel(): Entra
+2021-01-21 18:57:33[DEBUG][Main.java:9]main(): Entra
+2021-01-21 18:57:33[DEBUG][SimpleExcel.java:17]createSimpleExcel(): Entra
+2021-01-22 11:32:06[DEBUG][Main.java:9]main(): Entra
+2021-01-22 11:32:06[DEBUG][Simple.java:17]createSimpleExcel(): Entra
+2021-01-22 11:32:06[DEBUG][PivotTable.java:26]createPivotTable(): Entra
+2021-01-22 11:33:34[DEBUG][Main.java:9]main(): Entra
+2021-01-22 11:33:34[DEBUG][Simple.java:17]createSimpleExcel(): Entra
+2021-01-22 11:33:34[DEBUG][PivotTable.java:26]createPivotTable(): Entra
